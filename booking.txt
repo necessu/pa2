@@ -1,0 +1,5 @@
+Resort Hotel;09/20/2022;4;2;0;0;YES;PRT;Check-Out;09/20/2022
+Resort Hotel;09/20/2022;6;0;0;0;YES;PRT;Check-Out;09/20/2022
+Resort Hotel;09/18/2022;5;4;1;1;YES;PL;Check-Out;09/18/2022
+City Hotel;09/10/2022;3;1;0;0;NO;FR;Canceled;09/08/2022
+Pear Blue;08/15/2022;6;2;0;0;YES;FR;Check-Out;
